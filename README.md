@@ -1,4 +1,4 @@
-# qiskit-fall-fest-algeria
+# qiskit-fall-fest-algiers
 The qBraid platform instruction + challenge for Qiskit Fall Fest in Algeria
 
 Please clone this repository into your qBraid Lab environment to get the most out of the challenges! If you need help please just reach out to a mentor.
