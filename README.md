@@ -11,3 +11,9 @@ Please clone this repository into your qBraid Lab environment to get the most ou
 - Work on qBraid Lab to solve a challenge!
 - Open a PR once completed.
 - We'll merge your PR to showcase your work on the qBraid GitHub! wooo!
+
+
+![image](https://user-images.githubusercontent.com/32727721/195728878-e1d729e8-3e44-4e8b-9369-e408fa9cd301.png)
+
+
+GDG Algiers is a local group of developers and students who are interested in Google’s developer technology products. It is located at the National Higher School of Computer science and hosts a variety of events activities for developers through different events that aim to help the developers community get the latest technology updates.
