@@ -13,6 +13,10 @@ Please clone this repository into your qBraid Lab environment to get the most ou
 - We'll merge your PR to showcase your work on the qBraid GitHub! wooo!
 
 
+![image](https://github.com/qBraid/qiskit-fall-fest-algiers/blob/main/images/wtm.jpeg)
+
+WTM Algiers, also known as the "Women Techmakers Algiers" program, was created to increase visibility, community, and resources for women in technology and also spread learning and build role models globally. It's located at the National Higher School of Computer science and dedicated to anyone who passionate and motivated about the tech field.
+
 ![image](https://user-images.githubusercontent.com/32727721/195728878-e1d729e8-3e44-4e8b-9369-e408fa9cd301.png)
 
 
