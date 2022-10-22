@@ -2,7 +2,8 @@
 The qBraid platform instruction + challenge for Qiskit Fall Fest in Algeria
 <img width="1224" alt="image" src="https://user-images.githubusercontent.com/32727721/195728770-bdc77f23-1ad0-4153-921d-59d13fde44fe.png">
 
-Please clone this repository into your qBraid Lab environment to get the most out of the challenges! If you need help please just reach out to a mentor.
+Please fork then edit this README and update the link `https://github.com/qBraid/qiskit-fall-fest-algiers.git` to `https://github.com/<ENTER_YOUR_USER_NAME_HERE?/qiskit-fall-fest-algiers.git`. After, you can clone this repository into your qBraid Lab environment to get the most out of the challenges! If you need help please just reach out to a mentor.
+
 
 [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/qBraid/qiskit-fall-fest-algiers.git)
 
